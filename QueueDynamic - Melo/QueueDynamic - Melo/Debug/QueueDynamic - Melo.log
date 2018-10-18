@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  QueueDynamic - Melo.cpp
+c:\users\lucas\source\repos\queuedynamic - melo\queuedynamic - melo\queuedynamic - melo.cpp(21): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  QueueDynamic - Melo.vcxproj -> C:\Users\lucas\source\repos\QueueDynamic - Melo\Debug\QueueDynamic - Melo.exe
