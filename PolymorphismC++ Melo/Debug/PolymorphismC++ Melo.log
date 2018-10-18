@@ -1,0 +1,15 @@
+﻿  DayPlanner.cpp
+  EmailClient.cpp
+  GameConsole.cpp
+  Gmail.cpp
+  MultimidiaMessaging.cpp
+  PolymorphismC++ Melo.cpp
+c:\users\lucas\source\repos\polymorphismc++ melo\polymorphismc++ melo\polymorphismc++ melo.cpp(52): error C3861: 'gameConsole': identifier not found
+c:\users\lucas\source\repos\polymorphismc++ melo\polymorphismc++ melo\polymorphismc++ melo.cpp(55): error C3861: 'webBrowser': identifier not found
+c:\users\lucas\source\repos\polymorphismc++ melo\polymorphismc++ melo\polymorphismc++ melo.cpp(58): error C3861: 'dayPlanner': identifier not found
+c:\users\lucas\source\repos\polymorphismc++ melo\polymorphismc++ melo\polymorphismc++ melo.cpp(83): error C3861: 'smallMessaging': identifier not found
+c:\users\lucas\source\repos\polymorphismc++ melo\polymorphismc++ melo\polymorphismc++ melo.cpp(86): error C3861: 'multimediaMessaging': identifier not found
+  SmallMessaging.cpp
+  WebBrowser.cpp
+  Yahoo.cpp
+  Generating Code...
