@@ -1,3 +1,3 @@
 
 HTML form connected to MyPhp Database.
-Sava, Modify, List buttons created.
+Save, Modify, List buttons created.
