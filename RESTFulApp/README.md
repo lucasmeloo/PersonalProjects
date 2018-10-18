@@ -1,2 +1,3 @@
 # SchoolProjects
-HTML form connected to MyPhp Database
+HTML form connected to MyPhp Database.
+Sava, Modify, List buttons created.
